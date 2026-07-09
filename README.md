@@ -1,87 +1,108 @@
 # Hi, I'm Cameron MacCollum 👋
 
-Computer Science student at Palomar College passionate about software engineering, artificial intelligence, and workflow automation.
+### Computer Science Student | Software Developer | AI & Automation Enthusiast
 
-I'm currently a Kitchen Director at Chick-fil-A, where I've combined leadership experience with software development by building automation tools that improve operational efficiency.
+I'm a Computer Science student at Palomar College with a passion for building software that solves real-world problems.
 
-## 🚀 Currently Working On
-
-- 🤖 Edison – Raspberry Pi AI Desktop Assistant
-- 📱 React Native mobile development
-- 💻 Java software engineering projects
-- 🎓 Transferring to SDSU for Computer Science
-- 🧠 Preparing for software engineering internships
+I enjoy developing automation systems, AI-powered applications, and full-stack software that improve efficiency and create better user experiences. My projects combine practical engineering with technologies like Java, Python, React Native, Raspberry Pi, AppSheet, and the OpenAI API.
 
 ---
 
-## 🛠 Languages
+# 🚀 Current Focus
 
-- Java
-- Python
-- JavaScript
-- SQL
-- C++
+- 📚 Completing my Computer Science degree at Palomar College
+- 💻 Building portfolio-quality software projects
+- 🤖 Exploring AI applications and workflow automation
+- 📱 Developing React Native mobile applications
+- 🎯 Preparing for software engineering internships and transfer to SDSU
 
-## ⚙️ Technologies
-### 💻 Languages
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+# 📌 Featured Projects
+
+## 🤖 Edison — AI Desktop Assistant
+An AI-powered Raspberry Pi desktop assistant featuring wake-word activation, persistent memory, local text-to-speech, animated facial expressions, and conversational AI.
+
+**Highlights**
+- Wake-word activation
+- Persistent memory system
+- Local Piper TTS
+- Raspberry Pi integration
+- OpenAI API
+- Animated desktop interface
+
+**Tech**
+Python • Raspberry Pi • OpenAI API • Piper • Speech Recognition
+
+---
+
+## 📋 Chick-fil-A Shift Automation System
+Designed and developed an automated shift reporting system used to streamline restaurant leadership workflows.
+
+**Highlights**
+- Custom AppSheet application
+- Automated Slack reporting
+- Google Apps Script backend
+- Image uploads
+- Workflow automation
+- Performance tracking
+
+**Tech**
+AppSheet • Google Apps Script • Google Sheets • Slack API
+
+---
+
+## 📚 AI Study Notebook
+A React Native application designed to organize notes by subject while integrating AI-powered study assistance.
+
+**Highlights**
+- Subject organization
+- AI study assistance
+- Mobile-first interface
+- Local data persistence
+- Cross-platform development
+
+**Tech**
+React Native • Expo • JavaScript
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### ⚙️ Frameworks & Tools
+## Frameworks & Tools
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AppSheet](https://img.shields.io/badge/AppSheet-34A853?style=for-the-badge&logo=google&logoColor=white)
-![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-- React Native
-- Git & GitHub
-- Google Apps Script
-- AppSheet
-- Raspberry Pi
-- Slack API
-- OpenAI API
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge)
+![AppSheet](https://img.shields.io/badge/AppSheet-34A853?style=for-the-badge)
+![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=for-the-badge&logo=slack)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi)
 
 ---
 
-## 📌 Featured Projects
+# 🎯 Interests
 
-### 🤖 Edison – AI Desktop Assistant
-An AI assistant running on a Raspberry Pi featuring wake-word activation, persistent memory, local text-to-speech, animated facial expressions, and conversational AI.
-
-### 📊 Restaurant Operations Automation Platform
-Designed and built a workflow automation system using AppSheet, Google Apps Script, and Slack API to automate shift reporting and improve operational accountability.
-
-### 📚 Study Notebook
-A cross-platform mobile application built with React Native and Expo that helps students organize notes by subject, scan handwritten notes, and manage study materials through a clean, intuitive interface.
+- Artificial Intelligence
+- Software Engineering
+- Workflow Automation
+- Mobile Development
+- Human-Computer Interaction
+- Productivity Systems
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect With Me
 
-- LinkedIn: *www.linkedin.com/in/cameronmacc*
-- Email: *maccollumcameron@gmail.com*
-
-Thanks for stopping by!
-<!--
-**CameronMacCollum/CameronMaccollum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 LinkedIn: https://linkedin.com/in/cameronmacc
+- 📧 Email: maccollumcameron@gmail.com
